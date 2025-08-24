@@ -31,3 +31,27 @@ This project is part of a bootcamp exercise to practice **React hooks**, **Redux
 ---
 
 ## 🗂️ Project Structure
+
+
+🔑 Tech Stack
+
+React 18 (UI library)
+Redux Toolkit (state management)
+React Router v6 (routing)
+Vite (bundler & dev server)
+CSS Modules (scoped styling)
+React Icons (UI icons)
+
+
+🤝 Contributing
+
+Fork the repo
+Create a feature branch (git checkout -b feat/my-feature)
+Commit changes (git commit -m "feat: add new feature")
+Push to branch (git push origin feat/my-feature)
+Open a Pull Request
+
+
+👨‍💻 Author
+
+hanieh karami mohamadi with ❤️ 
